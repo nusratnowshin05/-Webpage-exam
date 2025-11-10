@@ -132,7 +132,7 @@ main {
 
   .banner > button {
     width: 100px;
-    margin-left: 50px;
+    margin-left: 30px;
   }
 }
 
@@ -152,8 +152,7 @@ main {
 
 @media screen and (max-width: 768px) {
   .grid-image {
-    grid-template-columns: repeat(1, 1fr);
-    margin-left: 10px;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
